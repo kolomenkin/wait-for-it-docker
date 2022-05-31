@@ -13,11 +13,14 @@ so you should provide IP address and Docker network to have access to desired ne
 
 ## Links
 
-- Docker file repository for `wait-for-it.sh`:
+- Dockerhub official image: <https://hub.docker.com/repository/docker/kolomenkin/wait-for-it>
+- Repository for Dockerfile for `wait-for-it.sh`:
   <https://github.com/kolomenkin/wait-for-it-docker>
-- Original `wait-for-it.sh` repository:
+- Dockerfile for `wait-for-it.sh`:
+  <https://github.com/kolomenkin/wait-for-it-docker/blob/master/Dockerfile>
+- Original repository of `wait-for-it.sh`:
   <https://github.com/vishnubob/wait-for-it>
-- Latest `wait-for-it.sh`:
+- Latest `wait-for-it.sh` script:
   <https://github.com/vishnubob/wait-for-it/blob/master/wait-for-it.sh>
 
 # wait-for-it original documentation
